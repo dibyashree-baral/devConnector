@@ -1,0 +1,8 @@
+{
+  "database": {
+    "mongodbUrl": "mongodb://127.0.0.1:27017/DevConnector"
+  },
+  "jwtTokenKey": "mySecreToken",
+  "Client_ID": "f84a7cb166a5d985a7ba",
+  "ClientSecret": "44bd979f9838918975e84df81766e3706625453a"
+}
